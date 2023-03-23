@@ -1,2 +1,1 @@
-# c_gym
-C training
+# C code examples
