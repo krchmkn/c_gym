@@ -20,3 +20,10 @@ $ Fizz
 $ ...
 ```
 
+- [is_palindrome.c](is_palindrome.c)
+
+```sh
+$ cc is_palindrome.c -o is_palindrome
+$ ./is_palindrome Level
+$ Level is a palindrome.
+```
