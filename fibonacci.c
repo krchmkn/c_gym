@@ -1,3 +1,8 @@
+/**
+ *
+ * Copyleft 2023 Dmitrii Korchemkin
+ *
+ */
 #include <stdio.h>
 #include <string.h>
 #include <limits.h>
