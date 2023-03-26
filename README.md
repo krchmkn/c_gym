@@ -27,3 +27,15 @@ $ cc is_palindrome.c -o is_palindrome
 $ ./is_palindrome Level
 $ Level is a palindrome.
 ```
+
+- [convert_binary.c](convert_binary.c)
+
+```sh
+$ cc convert_binary.c -o convert_binary
+$ ./convert_binary -b 1010
+$ 10
+$
+$ ./convert_binary -d 10
+$ 00000000000000000000000000001010
+```
+
