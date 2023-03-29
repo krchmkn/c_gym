@@ -1,5 +1,3 @@
-# C code examples
-
 - [string_reverse.c](string_reverse.c)
 - [fizz_buzz.c](fizz_buzz.c)
 - [is_palindrome.c](is_palindrome.c)
